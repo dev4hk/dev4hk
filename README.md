@@ -8,6 +8,13 @@ This repository serves as a **showcase of my projects**—ranging from full-stac
 
 ## 🚀 Featured Projects
 
+### 🤖 ATSify – AI-Powered Resume Analyzer
+[![View Repository](https://img.shields.io/badge/Repo-GitHub-brightgreen?logo=github&style=for-the-badge)](https://github.com/dev4hk/atsify)  
+**Tech:** Spring Boot, Spring AI, Ollama, React, Vite, TypeScript, Tailwind CSS, Framer Motion, Docker  
+- Developed an **AI-powered resume analyzer** that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS).  
+- Implemented **AI-driven analysis** to provide actionable feedback on resume content, formatting, and ATS compatibility.  
+- Built with a modern, responsive UI and containerized deployment for easy setup and scaling.  
+
 ### ✅ Sticker Hub – Full-Stack E-commerce Application
 [![View Repository](https://img.shields.io/badge/Repo-GitHub-brightgreen?logo=github&style=for-the-badge)](https://github.com/dev4hk/sticker-hub)  
 **Tech:** Java 21, Spring Boot 3, React 19 (Vite), Stripe, Resilience4j, Docker, Prometheus, Grafana, Selenium, Cucumber  
