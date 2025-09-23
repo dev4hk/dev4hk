@@ -13,7 +13,9 @@ This repository serves as a **showcase of my projects**—ranging from full-stac
 **Tech:** Spring Boot, Spring AI, Ollama, React, Vite, TypeScript, Tailwind CSS, Framer Motion, Docker  
 - Developed an **AI-powered resume analyzer** that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS).  
 - Implemented **AI-driven analysis** to provide actionable feedback on resume content, formatting, and ATS compatibility.  
-- Built with a modern, responsive UI and containerized deployment for easy setup and scaling.  
+- Built with a modern, responsive UI and containerized deployment for easy setup and scaling.
+
+---
 
 ### ✅ Sticker Hub – Full-Stack E-commerce Application
 [![View Repository](https://img.shields.io/badge/Repo-GitHub-brightgreen?logo=github&style=for-the-badge)](https://github.com/dev4hk/sticker-hub)  
